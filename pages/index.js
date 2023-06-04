@@ -20,7 +20,7 @@ Esta Política de Privacidade descreve como são tratados os dados de gastos pel
     </h5><h5>
     Armazenamento e Segurança
     </h5><h5>
-    O App armazena os dados de gastos localmente no dispositivo do usuário. As informações são criptografadas e protegidas por meio de medidas de segurança apropriadas para evitar acesso não autorizado. É importante lembrar que a segurança de dispositivos móveis pode depender das configurações e proteções do próprio dispositivo do usuário.
+    O App armazena os dados de gastos localmente no dispositivo do usuário.
     </h5>
         <h5>
     Compartilhamento de Informações
@@ -34,14 +34,14 @@ Esta Política de Privacidade descreve como são tratados os dados de gastos pel
     </h5>
 
     <h5>
-    Esta Política de Privacidade pode ser atualizada periodicamente para refletir eventuais mudanças nas práticas do App. As alterações serão publicadas nesta página e os usuários serão notificados sobre quaisquer mudanças significativas.
+    Esta Política de Privacidade pode ser atualizada periodicamente para refletir eventuais mudanças nas práticas do App. As alterações serão publicadas nesta página.
     </h5>
         <h5>
     Contato
     </h5>
 
     <h5>
-    Se você tiver alguma dúvida ou preocupação sobre esta Política de Privacidade ou sobre o tratamento de dados pelo App, entre em contato conosco através dos meios fornecidos no aplicativo.
+    Se você tiver alguma dúvida ou preocupação sobre esta Política de Privacidade ou sobre o tratamento de dados pelo App, entre em contato conosco através dos meios fornecidos na pagina da Play Store do App.
     </h5>
         <h5>
 Ao usar o App, você concorda com esta Política de Privacidade e com o processamento dos seus dados de gastos da maneira descrita. É importante ler e entender esta política antes de utilizar o App.
